@@ -5,7 +5,7 @@
 </head>
 <body bgcolor="#E7733A">
 
-<h1> ADD A NEW pERSON</h1>
+<h1>Add a new PERSON</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
